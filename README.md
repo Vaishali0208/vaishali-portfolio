@@ -26,4 +26,4 @@ A modern personal portfolio website showcasing my skills, projects, and experien
 Clone the repository:
 
 ```bash
-git clone https://github.com/Vaishali0208/vaishali-portfolio.git
+git clone https://github.com/Vaishali0208/vaishali-portfolio.git 
